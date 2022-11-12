@@ -3,7 +3,7 @@
 Create a production ready web service which combines two existing web services. Fetch a random name from https://names.mcquay.me/api/v0 Fetch a random Chuck Norris joke from http://joke.loc8u.com:8888/joke?limitTo=nerdy&firstName=John&lastName=Doe Combine the results and return them to the user.
 
 # Demo
-![Live demo](https://raw.githubusercontent.com/bimberman/travelwise/master/live-demo.gif)
+![Live demo](https://raw.githubusercontent.com/bimberman/task/master/showcase.gif)
 
 # Usage Instructions
 ## These instructions assume some familiarity with git, cli, and go
@@ -20,4 +20,4 @@ Create a production ready web service which combines two existing web services. 
 3. Open a web browser or any other tool that can send and receive get requests
 4. Send a Get request to this address `http://localhost:8080/`
 5. A response similar to the image below should appear:
-![result](https://raw.githubusercontent.com/bimberman/travelwise/master/live-demo.gif)
+![result](https://github.com/bimberman/task/blob/master/result.png?raw=true)
