@@ -18,6 +18,6 @@ Create a production ready web service which combines two existing web services. 
         1. Open the project directory in a command line interface (CLI) 
         2. Enter `go run task.go const.go handlers.go joke.go name.go`, this will instantiate the server
 3. Open a web browser or any other tool that can send and receive get requests
-4. Send a Get request to this address `http://localhost:8080/`
+4. Send a Get request to this address `http://localhost:5000/`
 5. A response similar to the image below should appear:
 ![result](https://github.com/bimberman/task/blob/master/result.png?raw=true)
